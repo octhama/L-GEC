@@ -1,0 +1,8 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Enfant		TAR	277	nouvelle taille enregistrement : 277
+Enfant	heureNaiss	RUB+		heureNaiss est une nouvelle rubrique
+Enfant	DateNaiss	NNR	DateHeureNaiss	ATTENTION : la rubrique DateHeureNaiss a pour nouveau nom DateNaiss
+Enfant	DateNaiss	CNW	Date (aaaammjj)$Date et Heure (aaaammjjhhmmssccc)	la rubrique DateNaiss a pour nouveau type Date (aaaammjj)
+Défunt		TAR	629	nouvelle taille enregistrement : 629
+Défunt	DateDeces	NNR	DateHeureDeces	ATTENTION : la rubrique DateHeureDeces a pour nouveau nom DateDeces
+Défunt	HeureDeces	RUB+		HeureDeces est une nouvelle rubrique

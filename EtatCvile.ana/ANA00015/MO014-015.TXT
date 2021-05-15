@@ -1,0 +1,2 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Témoin_Enfant	IdTemoin_Id_Enf	RUB-		la clé IdTemoin_Id_Enf est supprimée

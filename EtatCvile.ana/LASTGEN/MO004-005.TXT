@@ -1,0 +1,15 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+_Arrondissement		TAR	525	nouvelle taille enregistrement : 525
+_Arrondissement		IDE+*		fichier avec identifiant
+_Arrondissement	IDArrondissement	RUB+		IDArrondissement est une nouvelle clé
+Nationalité		TAR	215	nouvelle taille enregistrement : 215
+Nationalité		IDE+*		fichier avec identifiant
+Nationalité	IDNationalité	NNR	ID	ATTENTION : la clé ID a pour nouveau nom IDNationalité
+Nationalité	IDNationalité	CLEU*		la rubrique IDNationalité est maintenant une clé
+Nationalité	IDNationalité	CNW	Identifiant automatique (4 octets)$Chaîne unicode	la rubrique IDNationalité a pour nouveau type Identifiant automatique (4 oct
+Nationalité	LibNationalité	NNR	lib-nationalité	ATTENTION : la rubrique lib-nationalité a pour nouveau nom LibNationalité
+Nationalité	LibNationalité	TAI-	310	la rubrique LibNationalité a comme nouvelle taille 202 au lieu de 512
+Feuil1$		NFI		nouveau fichier
+_Arrondissement		NWL	_Arrondissement (IDArrondissement) et Enfant (IDArrondissement)	Nouvelle liaison entre les fichiers _Arrondissement (IDArrondissement) et Enfant (IDArrondissement)
+Nationalité		NWL	Nationalité (IDNationalité) et Défunt (IDNationalité)	Nouvelle liaison entre les fichiers Nationalité (IDNationalité) et Défunt (IDNationalité)
+Connexion à 'D:\ville et autre\Ville.xls'		CNX+		

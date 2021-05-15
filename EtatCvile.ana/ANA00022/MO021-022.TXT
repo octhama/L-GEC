@@ -1,0 +1,5 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Enfant		TAR	277	nouvelle taille enregistrement : 277
+Enfant	SexeEnf	TAI+	6	la rubrique SexeEnf a comme nouvelle taille 16 au lieu de 10
+Défunt		TAR	630	nouvelle taille enregistrement : 630
+Défunt	SexeDef	TAI+	7	la rubrique SexeDef a comme nouvelle taille 16 au lieu de 9

@@ -1,0 +1,5 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Témoin_Enfant		TAR	40	nouvelle taille enregistrement : 40
+Témoin_Enfant	DateDeclEnf	RUB+		DateDeclEnf est une nouvelle rubrique
+Témoin_Défunt		TAR	40	nouvelle taille enregistrement : 40
+Témoin_Défunt	DateDeclDef	RUB+		DateDeclDef est une nouvelle rubrique

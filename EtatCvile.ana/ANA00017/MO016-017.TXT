@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Mère		FIC-	Père	Fichier supprimé Père
+Père		DEL	Père (IdPère) et Enfant (IdPère)	Liaison supprimée entre les fichiers Père (IdPère) et Enfant (IdPère)
+Père		DEL	Père (IdPère) et Défunt (IdPère)	Liaison supprimée entre les fichiers Père (IdPère) et Défunt (IdPère)

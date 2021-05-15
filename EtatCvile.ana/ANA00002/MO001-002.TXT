@@ -1,0 +1,20 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Enfant	IDFormationSanitaire1	RUB+		IDFormationSanitaire1 est une nouvelle clé
+Enfant	IDFormationSanitaire	RUB-		la clé IDFormationSanitaire est supprimée
+Défunt	IDFormationSanitaire1	RUB+		IDFormationSanitaire1 est une nouvelle clé
+Défunt	IDFormationSanitaire	RUB-		la clé IDFormationSanitaire est supprimée
+_Arrondissement		NFI		nouveau fichier
+FormationSanitaire		NNF*	Formation_x0020_Sanitaire	nouveau nom FormationSanitaire
+FormationSanitaire		TAR	529	nouvelle taille enregistrement : 529
+FormationSanitaire		IDE+*		fichier avec identifiant
+FormationSanitaire	IDFormationSanitaire	NNR	ID	ATTENTION : la clé ID a pour nouveau nom IDFormationSanitaire
+FormationSanitaire	IDFormationSanitaire	CLEN*		la rubrique IDFormationSanitaire est maintenant une clé
+FormationSanitaire	IDFormationSanitaire	CNW	Entier sur 4 octets$Chaîne unicode	la rubrique IDFormationSanitaire a pour nouveau type Entier sur 4 octets
+FormationSanitaire	LibFormSanitaire	NNR	Champ1	ATTENTION : la rubrique Champ1 a pour nouveau nom LibFormSanitaire
+FormationSanitaire	IDFormationSanitaire1	RUB+		IDFormationSanitaire1 est une nouvelle clé
+FormationSanitaire		FIC-	FormationSanitaire	Fichier supprimé FormationSanitaire
+FormationSanitaire		NWL	FormationSanitaire (IDFormationSanitaire1) et Défunt (IDFormationSanitaire1)	Nouvelle liaison entre les fichiers FormationSanitaire (IDFormationSanitaire1) et Défunt (IDFormationSanitaire1)
+FormationSanitaire		NWL	FormationSanitaire (IDFormationSanitaire1) et Enfant (IDFormationSanitaire1)	Nouvelle liaison entre les fichiers FormationSanitaire (IDFormationSanitaire1) et Enfant (IDFormationSanitaire1)
+FormationSanitaire		DEL	FormationSanitaire (IDFormationSanitaire) et Enfant (IDFormationSanitaire)	Liaison supprimée entre les fichiers FormationSanitaire (IDFormationSanitaire) et Enfant (IDFormationSanitaire)
+FormationSanitaire		DEL	FormationSanitaire (IDFormationSanitaire) et Défunt (IDFormationSanitaire)	Liaison supprimée entre les fichiers FormationSanitaire (IDFormationSanitaire) et Défunt (IDFormationSanitaire)
+Connexion à 'D:\ville et autre\23.xml'		CNX+		

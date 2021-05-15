@@ -1,0 +1,9 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Nationalité		NFI		nouveau fichier
+Nationalité		FIC-	Arrondissement	Fichier supprimé Arrondissement
+Nationalité		FIC-	Ville	Fichier supprimé Ville
+Nationalité		FIC-	Nationalité	Fichier supprimé Nationalité
+Arrondissement		DEL	Arrondissement (IDArrondissement) et Enfant (IDArrondissement)	Liaison supprimée entre les fichiers Arrondissement (IDArrondissement) et Enfant (IDArrondissement)
+Ville		DEL	Ville (IDVille) et Défunt (IDVille)	Liaison supprimée entre les fichiers Ville (IDVille) et Défunt (IDVille)
+Nationalité		DEL	Nationalité (IDNationalité) et Défunt (IDNationalité)	Liaison supprimée entre les fichiers Nationalité (IDNationalité) et Défunt (IDNationalité)
+Ville		DEL	Ville (IDVille) et Enfant (IDVille)	Liaison supprimée entre les fichiers Ville (IDVille) et Enfant (IDVille)

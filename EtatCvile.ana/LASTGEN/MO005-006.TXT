@@ -1,0 +1,10 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Ville		NNF*	Feuil1$	nouveau nom Ville
+Ville		TAR	164	nouvelle taille enregistrement : 164
+Ville		IDE+*		fichier avec identifiant
+Ville	LibVille	NNR	F1	ATTENTION : la rubrique F1 a pour nouveau nom LibVille
+Ville	LibVille	TAI-	105	la rubrique LibVille a comme nouvelle taille 151 au lieu de 256
+Ville	IDVille	RUB+		IDVille est une nouvelle clé
+Ville	F2	RUB-		la rubrique F2 est supprimée
+Ville		NWL	Ville (IDVille) et Enfant (IDVille)	Nouvelle liaison entre les fichiers Ville (IDVille) et Enfant (IDVille)
+Ville		NWL	Ville (IDVille) et Défunt (IDVille)	Nouvelle liaison entre les fichiers Ville (IDVille) et Défunt (IDVille)

@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Nationalité		TAR	1088	nouvelle taille enregistrement : 1088
+Nationalité	ID	RUB+		ID est une nouvelle rubrique
+Nationalité	lib-nationalité	RUB+		lib-nationalité est une nouvelle rubrique
+Connexion à 'D:\ville et autre\Nationalité.xml'		CNX+		

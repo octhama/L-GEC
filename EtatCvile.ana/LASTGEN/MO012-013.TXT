@@ -1,0 +1,9 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Enfant		TAR	289	nouvelle taille enregistrement : 289
+Enfant	DateDeclDef	RUB+		DateDeclDef est une nouvelle rubrique
+Défunt		TAR	601	nouvelle taille enregistrement : 601
+Défunt	DateDeclEnf	RUB+		DateDeclEnf est une nouvelle rubrique
+Témoin_Enfant		TAR	31	nouvelle taille enregistrement : 31
+Témoin_Enfant	DateDeclEnf	RUB-		la rubrique DateDeclEnf est supprimée
+Témoin_Défunt		TAR	31	nouvelle taille enregistrement : 31
+Témoin_Défunt	DateDeclDef	RUB-		la rubrique DateDeclDef est supprimée

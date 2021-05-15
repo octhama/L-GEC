@@ -1,0 +1,37 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Enfant		TAR	271	nouvelle taille enregistrement : 271
+Enfant	DateDeclEnf	NNR	DateDeclDef	ATTENTION : la rubrique DateDeclDef a pour nouveau nom DateDeclEnf
+Enfant	IdPère	RUB+		IdPère est une nouvelle clé
+Enfant	IdMère	RUB+		IdMère est une nouvelle clé
+Enfant	IdDecl	RUB+		IdDecl est une nouvelle clé
+Enfant	DeclarantNaiss	RUB-		la rubrique DeclarantNaiss est supprimée
+Dèclarant		NNF*	Témoin	nouveau nom Dèclarant
+Dèclarant		TAR	248	nouvelle taille enregistrement : 248
+Dèclarant	IdDecl	NNR	IdTemoin	ATTENTION : la clé IdTemoin a pour nouveau nom IdDecl
+Dèclarant	NmDecl	NNR	NmTemoin	ATTENTION : la rubrique NmTemoin a pour nouveau nom NmDecl
+Dèclarant	PremDecl	NNR	PremTem	ATTENTION : la rubrique PremTem a pour nouveau nom PremDecl
+Dèclarant	ProfDecl	NNR	ProfTem	ATTENTION : la rubrique ProfTem a pour nouveau nom ProfDecl
+Dèclarant	AgeDecl	NNR	AgeTem	ATTENTION : la rubrique AgeTem a pour nouveau nom AgeDecl
+Dèclarant	DomDecl	NNR	DomTem	ATTENTION : la rubrique DomTem a pour nouveau nom DomDecl
+Dèclarant	StatutTem	RUB-		la rubrique StatutTem est supprimée
+Défunt		TAR	623	nouvelle taille enregistrement : 623
+Défunt	DateDecldef	NNR	DateDeclEnf	ATTENTION : la rubrique DateDeclEnf a pour nouveau nom DateDecldef
+Défunt	IdDecl	RUB+		IdDecl est une nouvelle clé
+Défunt	IdMère	RUB+		IdMère est une nouvelle clé
+Défunt	IdPère	RUB+		IdPère est une nouvelle clé
+Défunt	DeclarantDef	RUB-		la rubrique DeclarantDef est supprimée
+Père		NFI		nouveau fichier
+Mère		NFI		nouveau fichier
+Mère		FIC-	Témoin_Enfant	Fichier supprimé Témoin_Enfant
+Mère		FIC-	Témoin_Défunt	Fichier supprimé Témoin_Défunt
+Dèclarant		NWL	Dèclarant (IdDecl) et Défunt (IdDecl)	Nouvelle liaison entre les fichiers Dèclarant (IdDecl) et Défunt (IdDecl)
+Dèclarant		NWL	Dèclarant (IdDecl) et Enfant (IdDecl)	Nouvelle liaison entre les fichiers Dèclarant (IdDecl) et Enfant (IdDecl)
+Mère		NWL	Mère (IdMère) et Enfant (IdMère)	Nouvelle liaison entre les fichiers Mère (IdMère) et Enfant (IdMère)
+Père		NWL	Père (IdPère) et Enfant (IdPère)	Nouvelle liaison entre les fichiers Père (IdPère) et Enfant (IdPère)
+Mère		NWL	Mère (IdMère) et Défunt (IdMère)	Nouvelle liaison entre les fichiers Mère (IdMère) et Défunt (IdMère)
+Père		NWL	Père (IdPère) et Défunt (IdPère)	Nouvelle liaison entre les fichiers Père (IdPère) et Défunt (IdPère)
+Témoin		DEL	Témoin (IdTemoin) et Témoin_Enfant (IdTemoin)	Liaison supprimée entre les fichiers Témoin (IdTemoin) et Témoin_Enfant (IdTemoin)
+Enfant		DEL	Enfant (Id_Enf) et Témoin_Enfant (Id_Enf)	Liaison supprimée entre les fichiers Enfant (Id_Enf) et Témoin_Enfant (Id_Enf)
+Témoin		DEL	Témoin (IdTemoin) et Témoin_Défunt (IdTemoin)	Liaison supprimée entre les fichiers Témoin (IdTemoin) et Témoin_Défunt (IdTemoin)
+Défunt		DEL	Défunt (IdDef) et Témoin_Défunt (IdDef)	Liaison supprimée entre les fichiers Défunt (IdDef) et Témoin_Défunt (IdDef)
+Dèclarant		FRN		

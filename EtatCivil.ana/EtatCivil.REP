@@ -1,0 +1,7 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=8	;Analysis GUID
+LOCALIZATION_UTF8=25FD0C05D2A8439FBB98493DCD4805C7	_x0032_3	C:\Mes Projets\Etat Civil\_x0032_3.FIC
+LOCALIZATION_UTF8=FC10C7A31E8A45F88C5624632911E9AE	AgentMairie	C:\Mes Projets\Etat Civil\Exe\AgentMairie.fic
+LOCALIZATION_UTF8=395593397CDE4FAC83C7361974F84BCD	FicheNaissance	C:\Mes Projets\Etat Civil\Exe\FicheNaissance.fic
+LOCALIZATION_UTF8=C607515E207E495D901EFE77FA9F5DDD	Personne	C:\Mes Projets\Etat Civil\Exe\Personne.fic

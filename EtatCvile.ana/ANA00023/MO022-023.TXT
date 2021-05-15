@@ -1,0 +1,18 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Enfant		TAR	271	nouvelle taille enregistrement : 271
+Enfant	DateHeureNaiss	NNR	DateNaiss	ATTENTION : la rubrique DateNaiss a pour nouveau nom DateHeureNaiss
+Enfant	DateHeureNaiss	CNW	Date et Heure (aaaammjjhhmmssccc)$Date (aaaammjj)	la rubrique DateHeureNaiss a pour nouveau type Date et Heure (aaaammjjhhmmssc
+Enfant	heureNaiss	RUB-		la rubrique heureNaiss est supprimée
+Dèclarant		TAR	253	nouvelle taille enregistrement : 253
+Dèclarant	DateDecl	NNR	AgeDecl	ATTENTION : la rubrique AgeDecl a pour nouveau nom DateDecl
+Dèclarant	DateDecl	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique DateDecl a pour nouveau type Date (aaaammjj)
+Défunt		TAR	624	nouvelle taille enregistrement : 624
+Défunt	DateHeureDeces	NNR	DateDeces	ATTENTION : la rubrique DateDeces a pour nouveau nom DateHeureDeces
+Défunt	DateHeureDeces	CNW	Date et Heure (aaaammjjhhmmssccc)$Date (aaaammjj)	la rubrique DateHeureDeces a pour nouveau type Date et Heure (aaaammjjhhmmssc
+Défunt	HeureDeces	RUB-		la rubrique HeureDeces est supprimée
+Mère		TAR	253	nouvelle taille enregistrement : 253
+Mère	DateMère	NNR	AgeMère	ATTENTION : la rubrique AgeMère a pour nouveau nom DateMère
+Mère	DateMère	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique DateMère a pour nouveau type Date (aaaammjj)
+Père		TAR	253	nouvelle taille enregistrement : 253
+Père	DatePère	NNR	AgePère	ATTENTION : la rubrique AgePère a pour nouveau nom DatePère
+Père	DatePère	CNW	Date (aaaammjj)$Entier sur 4 octets	la rubrique DatePère a pour nouveau type Date (aaaammjj)

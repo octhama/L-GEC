@@ -1,0 +1,11 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+FormationSanitaire		NNF*	Formation_x0020_Sanitaire	nouveau nom FormationSanitaire
+FormationSanitaire		TAR	525	nouvelle taille enregistrement : 525
+FormationSanitaire		IDE+*		fichier avec identifiant
+FormationSanitaire	IDFormationSanitaire1	NNR	ID	ATTENTION : la clé ID a pour nouveau nom IDFormationSanitaire1
+FormationSanitaire	IDFormationSanitaire1	CLEU*		la rubrique IDFormationSanitaire1 est maintenant une clé
+FormationSanitaire	IDFormationSanitaire1	CNW	Identifiant automatique (4 octets)$Chaîne unicode	la rubrique IDFormationSanitaire1 a pour nouveau type Identifiant automatique (4 oct
+FormationSanitaire	LibFormSanitaire	NNR	Champ1	ATTENTION : la rubrique Champ1 a pour nouveau nom LibFormSanitaire
+FormationSanitaire		NWL	FormationSanitaire (IDFormationSanitaire1) et Enfant (IDFormationSanitaire1)	Nouvelle liaison entre les fichiers FormationSanitaire (IDFormationSanitaire1) et Enfant (IDFormationSanitaire1)
+FormationSanitaire		NWL	FormationSanitaire (IDFormationSanitaire1) et Défunt (IDFormationSanitaire1)	Nouvelle liaison entre les fichiers FormationSanitaire (IDFormationSanitaire1) et Défunt (IDFormationSanitaire1)
+FormationSanitaire		FRN		

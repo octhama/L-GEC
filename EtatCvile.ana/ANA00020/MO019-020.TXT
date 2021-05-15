@@ -1,0 +1,7 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Père		NFI		nouveau fichier
+Père		FIC-	Père	Fichier supprimé Père
+Père		NWL	Père (IdPère) et Défunt (IdPère)	Nouvelle liaison entre les fichiers Père (IdPère) et Défunt (IdPère)
+Père		NWL	Père (IdPère) et Enfant (IdPère)	Nouvelle liaison entre les fichiers Père (IdPère) et Enfant (IdPère)
+Père		DEL	Père (IdPère) et Enfant (IdPère)	Liaison supprimée entre les fichiers Père (IdPère) et Enfant (IdPère)
+Père		DEL	Père (IdPère) et Défunt (IdPère)	Liaison supprimée entre les fichiers Père (IdPère) et Défunt (IdPère)

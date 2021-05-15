@@ -1,0 +1,22 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Enfant		NFI		nouveau fichier
+Témoin		NFI		nouveau fichier
+Défunt		NFI		nouveau fichier
+Arrondissement		NFI		nouveau fichier
+FormationSanitaire		NFI		nouveau fichier
+Ville		NFI		nouveau fichier
+Nationalité		NFI		nouveau fichier
+AVOIR_TEMOIGNER_POUR_ENFANT		NFI		nouveau fichier
+AVOIR_TEMOIGNER_POUR_DEFUNT		NFI		nouveau fichier
+Formation_x0020_Sanitaire		NFI		nouveau fichier
+Arrondissement		NWL	Arrondissement (IDArrondissement) et Enfant (IDArrondissement)	Nouvelle liaison entre les fichiers Arrondissement (IDArrondissement) et Enfant (IDArrondissement)
+Enfant		NWL	Enfant (Id_Enf) et AVOIR_TEMOIGNER_POUR_ENFANT (Id_Enf)	Nouvelle liaison entre les fichiers Enfant (Id_Enf) et AVOIR_TEMOIGNER_POUR_ENFANT (Id_Enf)
+Témoin		NWL	Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_ENFANT (IdTemoin)	Nouvelle liaison entre les fichiers Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_ENFANT (IdTemoin)
+Témoin		NWL	Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdTemoin)	Nouvelle liaison entre les fichiers Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdTemoin)
+Défunt		NWL	Défunt (IdDef) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdDef)	Nouvelle liaison entre les fichiers Défunt (IdDef) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdDef)
+FormationSanitaire		NWL	FormationSanitaire (IDFormationSanitaire) et Enfant (IDFormationSanitaire)	Nouvelle liaison entre les fichiers FormationSanitaire (IDFormationSanitaire) et Enfant (IDFormationSanitaire)
+Ville		NWL	Ville (IDVille) et Défunt (IDVille)	Nouvelle liaison entre les fichiers Ville (IDVille) et Défunt (IDVille)
+Nationalité		NWL	Nationalité (IDNationalité) et Défunt (IDNationalité)	Nouvelle liaison entre les fichiers Nationalité (IDNationalité) et Défunt (IDNationalité)
+FormationSanitaire		NWL	FormationSanitaire (IDFormationSanitaire) et Défunt (IDFormationSanitaire)	Nouvelle liaison entre les fichiers FormationSanitaire (IDFormationSanitaire) et Défunt (IDFormationSanitaire)
+Ville		NWL	Ville (IDVille) et Enfant (IDVille)	Nouvelle liaison entre les fichiers Ville (IDVille) et Enfant (IDVille)
+Connexion à 'D:\ville et autre\Formation Sanitaire.xml'		CNX+		

@@ -1,0 +1,5 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Contrainte_Témoin_Enfant		MCL	1,1->0,1	
+Contrainte_Enfant_Témoin		MCL	1,1->0,1	
+Contrainte_Témoin_Défunt		MCL	1,1->0,1	
+Contrainte_Défunt_Témoin		MCL	1,1->0,1	

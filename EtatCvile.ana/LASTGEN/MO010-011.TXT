@@ -1,0 +1,13 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Témoin_Enfant		NFI		nouveau fichier
+Témoin_Défunt		NFI		nouveau fichier
+Témoin_Défunt		FIC-	AVOIR_TEMOIGNER_POUR_ENFANT	Fichier supprimé AVOIR_TEMOIGNER_POUR_ENFANT
+Témoin_Défunt		FIC-	AVOIR_TEMOIGNER_POUR_DEFUNT	Fichier supprimé AVOIR_TEMOIGNER_POUR_DEFUNT
+Défunt		NWL	Défunt (IdDef) et Témoin_Défunt (IdDef)	Nouvelle liaison entre les fichiers Défunt (IdDef) et Témoin_Défunt (IdDef)
+Témoin		NWL	Témoin (IdTemoin) et Témoin_Défunt (IdTemoin)	Nouvelle liaison entre les fichiers Témoin (IdTemoin) et Témoin_Défunt (IdTemoin)
+Témoin		NWL	Témoin (IdTemoin) et Témoin_Enfant (IdTemoin)	Nouvelle liaison entre les fichiers Témoin (IdTemoin) et Témoin_Enfant (IdTemoin)
+Enfant		NWL	Enfant (Id_Enf) et Témoin_Enfant (Id_Enf)	Nouvelle liaison entre les fichiers Enfant (Id_Enf) et Témoin_Enfant (Id_Enf)
+Enfant		DEL	Enfant (Id_Enf) et AVOIR_TEMOIGNER_POUR_ENFANT (Id_Enf)	Liaison supprimée entre les fichiers Enfant (Id_Enf) et AVOIR_TEMOIGNER_POUR_ENFANT (Id_Enf)
+Témoin		DEL	Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_ENFANT (IdTemoin)	Liaison supprimée entre les fichiers Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_ENFANT (IdTemoin)
+Témoin		DEL	Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdTemoin)	Liaison supprimée entre les fichiers Témoin (IdTemoin) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdTemoin)
+Défunt		DEL	Défunt (IdDef) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdDef)	Liaison supprimée entre les fichiers Défunt (IdDef) et AVOIR_TEMOIGNER_POUR_DEFUNT (IdDef)

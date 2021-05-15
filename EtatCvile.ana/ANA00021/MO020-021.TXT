@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Père	DomPère	RUB+		DomPère est une nouvelle rubrique
+Père	DomPère	RUB-		la rubrique DomPère est supprimée

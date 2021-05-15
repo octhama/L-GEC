@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Père		NWL	Père (IdPère) et Enfant (IdPère)	Nouvelle liaison entre les fichiers Père (IdPère) et Enfant (IdPère)
+Père		NWL	Père (IdPère) et Défunt (IdPère)	Nouvelle liaison entre les fichiers Père (IdPère) et Défunt (IdPère)

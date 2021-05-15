@@ -1,0 +1,6 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Enfant	Index_FullText	IFT+		L'index full-text Index_FullText a été créé.
+Dèclarant	Index_FullText	IFT+		L'index full-text Index_FullText a été créé.
+Défunt	Index_FullText	IFT+		L'index full-text Index_FullText a été créé.
+Mère	Index_FullText	IFT+		L'index full-text Index_FullText a été créé.
+Père	Index_FullText	IFT+		L'index full-text Index_FullText a été créé.

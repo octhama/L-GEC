@@ -1,0 +1,6 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Formation_x0020_Sanitaire		NFI		nouveau fichier
+Formation_x0020_Sanitaire		FIC-	FormationSanitaire	Fichier supprimé FormationSanitaire
+FormationSanitaire		DEL	FormationSanitaire (IDFormationSanitaire1) et Enfant (IDFormationSanitaire1)	Liaison supprimée entre les fichiers FormationSanitaire (IDFormationSanitaire1) et Enfant (IDFormationSanitaire1)
+FormationSanitaire		DEL	FormationSanitaire (IDFormationSanitaire1) et Défunt (IDFormationSanitaire1)	Liaison supprimée entre les fichiers FormationSanitaire (IDFormationSanitaire1) et Défunt (IDFormationSanitaire1)
+Connexion à 'C:\Users\lgkedem\Desktop\Nouveau dossier (4)\Formation Sanitaire.xml'		CNX+		

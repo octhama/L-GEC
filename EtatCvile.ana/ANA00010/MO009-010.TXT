@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Enfant		TAR	280	nouvelle taille enregistrement : 280
+Enfant	SexeEnf	TAI+	2	la rubrique SexeEnf a comme nouvelle taille 10 au lieu de 8
+Enfant	DeclarantNaiss	CNW	Chaîne$Date (aaaammjj)	la rubrique DeclarantNaiss a pour nouveau type Chaîne
