@@ -1,0 +1,2 @@
+# L-GEC
+Projet de fin d'étude en vu de l'obtention du titre de Licence Professionnelle en Réseaux et Génie Logiciel. L-GEC (Logiciel de Gestion de L'Etat Civil) a été développé en 2018 en atelier de génie logiciel avec WINDEV. Il s'agit d'un logiciel qui à pour but une gestion plus"smart" des informations liées à l'Etat Civil en République du Bénin. Dans le cadre de ce projet le cas de la ville de Cotonou capital économique du Bénin a été prise en compte.
